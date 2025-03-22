@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Arquivos de cache
+*.pyo
+*.pyd
+
+# Outros arquivos que podem ser ignorados
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
